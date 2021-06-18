@@ -6,9 +6,9 @@ The web application is completed in python using flask and can be run directly v
 
 The navigation bar up top will allow you to navigate between pages and allow you to fetch a new sample of patients of a different size if you wish to do so.
 
-While there was one requirement asking to make a view displaying the total number of patients fetched and their average age, it didn't seem to make much sense to display them in any other form but in a list, so I've decided to display them like so under the summary tab in the navigation bar.
+While there was one requirement asking to make a view displaying the total number of patients fetched and their average age, it didn't seem to make much sense to display them in any other form but in a list, so I've decided to display them like so under the Summary tab in the navigation bar. Lastly, the Table tab was experiencing some issues and due to time constraints I have disabled it.
 
-Thank you for considering me as a candidate.
+Thank you very much for considering me as a candidate for your position.
 
 Best,
 Gerald
